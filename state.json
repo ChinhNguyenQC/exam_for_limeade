@@ -1,0 +1,175 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_visitor",
+      "value": "0c787704-8f28-4f7a-8ec3-f9f251715faf",
+      "domain": "staging.tinyserver.info",
+      "path": "/",
+      "expires": 1692126012.33659,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_visit",
+      "value": "c16bff5c-a241-4e3c-a54b-77f7078ab99e",
+      "domain": "staging.tinyserver.info",
+      "path": "/",
+      "expires": 1657580422.462071,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_track",
+      "value": "true",
+      "domain": "staging.tinyserver.info",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.1935762602.1657566013",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": 1692126012.935098,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.2.1944901810.1657566013",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": 1657652412,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat_app",
+      "value": "1",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": 1657566072,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat",
+      "value": "1",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": 1657566072,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.3.1935762602.1657566013",
+      "domain": ".staging.tinyserver.info",
+      "path": "/",
+      "expires": 1692126015.412695,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.3.1944901810.1657566013",
+      "domain": ".staging.tinyserver.info",
+      "path": "/",
+      "expires": 1657652415,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat_UA-34717216-3",
+      "value": "1",
+      "domain": ".staging.tinyserver.info",
+      "path": "/",
+      "expires": 1657566073,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "remember_token",
+      "value": "818f5908adf61d513684d2",
+      "domain": "staging.tinyserver.info",
+      "path": "/",
+      "expires": 1692126014.969471,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "tinypulse.token",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4R0NNIn0..aex7z7rPRx6NmfF2.mnwp9f-OwU-Dgvvoj3KD0emfXNk38FJUciHbqMJwQpmcXivSnwJxkL9E0i1OiKhMWJqehlirALA2yl2qr0NwRfq3nTS9D9tOP2WNwx5Jjek6A2fzCil9s3_y34L_FW2cI5AX6FlWrXAogrIkaaNGOw2TVZgeHl6pYhP53O00sbAZm4GiQNgUdsDtwaSAYNGLm4t1aNrgaIa_ddeWQEIth2q38WlYx4XwZMDIs8TxCeF1vWqEEEZ-qieBfpgPx_FCSCGcYKAmbp8nMMF1qrfV8JFoXvmOGcPcpzvWNTpcMT562XEazivn9sEp_s0.rdiJnoCkkvIiHiEfcAGhRg",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": 1689102015.381764,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_visitor",
+      "value": "e5933d27-3347-4e0d-a496-c8bf7121d4d9",
+      "domain": "proxy-staging.tinyserver.info",
+      "path": "/",
+      "expires": 1692126019.25582,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_visit",
+      "value": "5c96119f-9474-4ad8-bd07-f80eb00f7ec7",
+      "domain": "proxy-staging.tinyserver.info",
+      "path": "/",
+      "expires": 1657580420.887345,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "ahoy_track",
+      "value": "true",
+      "domain": "proxy-staging.tinyserver.info",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "_dd_s",
+      "value": "rum=1&id=13fea3c4-4018-410f-8a3b-2328d853f02d&created=1657566012944&expire=1657566915398",
+      "domain": "staging.tinyserver.info",
+      "path": "/",
+      "expires": 1657566922,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_tinypulse_csession_admn",
+      "value": "RanZm44XOc9xia86gIrzbTe0TpEEoQ7touLcnl8c7abpKXlEUsMWtmp4ioNbZ8JJSvd93av1afWwd0zxUtrUJXi7EPhOi4R3GFc6BaLSZUZfzas5lEzPcqfyZSjCb76aM%2BwrSunvt1lgn29HL%2Fm0Hr5sCcFtG%2FOiOUG2jX%2B7QuHhsoqXjmS9p61Ub%2BG74OY2QtHkYqkNMJURCBzG%2FHx6%2FKfYqJp3J14J3FbSwcEI6Jp6uiZyS626ouLOPkBgfUXEuRvpbz7eqoYUwO37tc0c0gJEQrbHsz3Q02S76z3%2BSEvl4Ag8jPbc1CCnCdahnwZmTcoKW7%2FHCU%2FmydK0Kg8xT3JrK%2BHXUws3SidVxFMs4%2B68Esj43aVc3hPFECg6mRm6wjz3mwfPXQy8IrXpS7mDJFx6Hiv7PWvg1aTyzU1YGP7WCwtMP1d0CzbTC24tsfub2hZeFaLecXAAzCD26A0YgMhLPCcASLd7IHP1--aUg60Oxwx4kn7Ra6--VWbDGc0zRmh94x1aIudsCw%3D%3D",
+      "domain": ".tinyserver.info",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    }
+  ],
+  "origins": []
+}
